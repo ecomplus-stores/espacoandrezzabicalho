@@ -1,7 +1,7 @@
 {
   "domain": "espacoandrezzabicalho.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#d2aea2",
+  "primary_color": "#2d2b2a",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
