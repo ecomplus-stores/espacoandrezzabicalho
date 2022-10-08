@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "DIVIDIMOS EM ATE 10X SEM JUROS OU 10% DE DESCONTO Á VISTA.",
+    "text": "",
     "link": ""
   },
   "contacts_stripe": {
@@ -8,9 +8,12 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
+      },
+      {
+        "title": "DIVIDIMOS EM ATE 10X SEM JUROS OU 10% DE DESCONTO Á VISTA."
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
