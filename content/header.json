@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "DIVIDIMOS EM ATE 10X SEM JUROS OU 10% DE DESCONTO Á VISTA.",
-    "link": ""
+    "link": "",
+    "background": "#2d2b2a",
+    "color": "#d2aea2"
   },
   "contacts_stripe": {
     "pages": [],
