@@ -10,14 +10,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pg02-01.png",
-          "mobile_img": "/img/uploads/banner-andrezza-celular-1-.png"
+          "img": "/img/uploads/banner02.png",
+          "mobile_img": "/img/uploads/cell2.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pg01-01.png",
-          "mobile_img": "/img/uploads/banner-andrezza-celular.png"
+          "img": "/img/uploads/banner01.png",
+          "mobile_img": "/img/uploads/cell1.png"
         }
       ]
     },
