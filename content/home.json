@@ -26,6 +26,11 @@
       "enabled": true
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
+    },
+    {
       "page": "",
       "title": "Nossos Produtos",
       "shuffle": true,
