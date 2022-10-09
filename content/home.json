@@ -26,19 +26,15 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
-    },
-    {
-      "type": "collection-shelf",
+      "page": "",
+      "title": "Nossos Produtos",
       "shuffle": true,
-      "collection_id": null,
-      "sort": null,
-      "title": "",
       "headless": false,
-      "limit": 12,
-      "page": 1
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
+      "collection_id": null,
+      "sort": null
     }
   ]
 }
