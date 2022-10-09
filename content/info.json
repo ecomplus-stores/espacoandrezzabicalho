@@ -5,7 +5,7 @@
   },
   "installments": {
     "show": true,
-    "text": "PAGAMENTO FACILITADO<br> em até 8x sem juros"
+    "text": "Pagamento em até 8x sem juros"
   },
   "exchange": {
     "show": false,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "PAGUE COM PIX 10% de Desconto"
+    "text": "Pague com PIX 10% de Desconto"
   }
 }
