@@ -26,19 +26,19 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": null
-    },
-    {
       "page": "",
-      "title": "Nossos Produtos",
+      "title": "Produtos Populares",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "",
       "limit": "",
       "collection_id": null,
+      "sort": null
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
       "sort": null
     }
   ]
