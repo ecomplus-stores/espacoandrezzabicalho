@@ -8,7 +8,7 @@
     "text": "PAGAMENTO FACILITADO em até 8x sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
