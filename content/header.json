@@ -14,7 +14,8 @@
     "featured": [
       "/roupas?Roupas",
       "/acessorios?Acessórios",
-      "/outlet?Outlet"
+      "/outlet?Outlet",
+      "/calcados?Calçados"
     ],
     "random": 6,
     "full_width": true
