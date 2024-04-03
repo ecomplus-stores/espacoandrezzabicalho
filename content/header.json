@@ -11,7 +11,11 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/roupas?Roupas",
+      "/acessorios?Acessórios",
+      "/outlet?Outlet"
+    ],
     "random": 6,
     "full_width": true
   },
