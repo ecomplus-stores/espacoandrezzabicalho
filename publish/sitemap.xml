@@ -1724,12 +1724,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/conjunto-saia-e-trench-coat-bordado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/casaco-alfaiataria</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1941,6 +1935,24 @@
   
     <url>
       <loc>https://espacoandrezzabicalho.com.br/bermuda-alfaiataria---marinho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/blazer-alfaiataria-visco---marinho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/calca-crepe-pesponto---chocolate</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/calca-crepe---marrom</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
