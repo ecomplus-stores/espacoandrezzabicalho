@@ -1952,6 +1952,18 @@
     </url>
   
     <url>
+      <loc>https://espacoandrezzabicalho.com.br/short-saia-cora-latte</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/short-saia-cora-preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://espacoandrezzabicalho.com.br/vestidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2060,15 +2072,15 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
