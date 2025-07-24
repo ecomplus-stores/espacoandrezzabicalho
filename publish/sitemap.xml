@@ -620,18 +620,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/conjunto-alfaiataria-blazer-e-calca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://espacoandrezzabicalho.com.br/regata-de-chiffon-preta-bordada</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/saia-midi-dourada-de-paete</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -932,12 +920,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/regata-janaina-ceu</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/regata-janaina-sunset</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1017,12 +999,6 @@
   
     <url>
       <loc>https://espacoandrezzabicalho.com.br/short-samia-sunset</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://espacoandrezzabicalho.com.br/short-saia-solange-banoffee</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1262,12 +1238,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/633655</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/regata-renda</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1448,25 +1418,7 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/blazer-alfaiataria-visco---marinho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://espacoandrezzabicalho.com.br/top-andreia-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/vestido-eliane-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://espacoandrezzabicalho.com.br/short-lorena-chocolate</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1694,12 +1646,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/calca-brisa-cabernet</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/short-saia-giu-chocolate</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1772,12 +1718,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/conjunto-verde-e-bege-casaco-e-calca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/body-de-renda-bege</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1791,12 +1731,6 @@
   
     <url>
       <loc>https://espacoandrezzabicalho.com.br/tricot-gola-alta-marrom</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://espacoandrezzabicalho.com.br/conjunto-alfaiataria-azul-marinho</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2186,6 +2120,42 @@
     </url>
   
     <url>
+      <loc>https://espacoandrezzabicalho.com.br/vestido-curto-terracota-com-babados</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/vestido-longo-amarelo-de-tule-bordado-e-babados</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/conjunto-listrado-corset-e-calca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/conjunto-listrado-bata-e-calca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/conjunto-de-linho-colete-e-calca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/conjunto-alfaiataria-corset-e-calca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://espacoandrezzabicalho.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2240,13 +2210,13 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/admin/index</loc>
+      <loc>https://espacoandrezzabicalho.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/app/index</loc>
+      <loc>https://espacoandrezzabicalho.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
