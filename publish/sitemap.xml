@@ -938,18 +938,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/vestido-tris-sunset</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://espacoandrezzabicalho.com.br/vestido-tris-banoffee</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/vestido-aurea-ceu</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2180,12 +2168,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -2193,6 +2175,12 @@
   
     <url>
       <loc>https://espacoandrezzabicalho.com.br/search</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
