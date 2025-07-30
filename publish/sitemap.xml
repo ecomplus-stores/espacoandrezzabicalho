@@ -2168,6 +2168,12 @@
     </url>
   
     <url>
+      <loc>https://espacoandrezzabicalho.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://espacoandrezzabicalho.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -2175,12 +2181,6 @@
   
     <url>
       <loc>https://espacoandrezzabicalho.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://espacoandrezzabicalho.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
