@@ -740,12 +740,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/conjunto-estampado-camisa-e-short</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/saia-longa-floral-com-paete</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1304,12 +1298,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/conjunto-jeans-amanda-paggi</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/617230</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1862,12 +1850,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/881619</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/vestido-curto-verde-com-babados</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2384,13 +2366,13 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/app/index</loc>
+      <loc>https://espacoandrezzabicalho.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/admin/index</loc>
+      <loc>https://espacoandrezzabicalho.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
