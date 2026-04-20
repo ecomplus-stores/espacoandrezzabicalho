@@ -2456,6 +2456,12 @@
     </url>
   
     <url>
+      <loc>https://espacoandrezzabicalho.com.br/outonoinverno</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://espacoandrezzabicalho.com.br/vestidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2528,12 +2534,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/outonoinverno</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2546,13 +2546,13 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/pages/trocas</loc>
+      <loc>https://espacoandrezzabicalho.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/pages/sobre-nos</loc>
+      <loc>https://espacoandrezzabicalho.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
