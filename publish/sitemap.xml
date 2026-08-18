@@ -644,12 +644,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/short-relaxed-jeans-flores-lp</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/vestido-aurea-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2408,12 +2402,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2421,6 +2409,12 @@
   
     <url>
       <loc>https://espacoandrezzabicalho.com.br/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2462,15 +2456,15 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
