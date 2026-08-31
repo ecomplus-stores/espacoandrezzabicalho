@@ -74,12 +74,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/outonoinverno</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/saia-jacquard-cinto-fivela-perolas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1664,12 +1658,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/calca-alafaiataria-cinza-com-risca-de-giz</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/blusa-de-tricot-cinza-com-babados</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2336,6 +2324,12 @@
     </url>
   
     <url>
+      <loc>https://espacoandrezzabicalho.com.br/outonoinverno</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://espacoandrezzabicalho.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2348,13 +2342,13 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/pages/sobre-nos</loc>
+      <loc>https://espacoandrezzabicalho.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/pages/trocas</loc>
+      <loc>https://espacoandrezzabicalho.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
