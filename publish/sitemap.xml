@@ -2378,6 +2378,24 @@
     </url>
   
     <url>
+      <loc>https://espacoandrezzabicalho.com.br/corta-vento-off-white-e-rosa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/conjunto-corset-com-laco-e-calca-off-white</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/outonoinverno</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://espacoandrezzabicalho.com.br/vestidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2450,13 +2468,7 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/outonoinverno</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://espacoandrezzabicalho.com.br/pages/sobre-nos</loc>
+      <loc>https://espacoandrezzabicalho.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2468,13 +2480,13 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/pages/trocas</loc>
+      <loc>https://espacoandrezzabicalho.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/pages/contato</loc>
+      <loc>https://espacoandrezzabicalho.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2516,15 +2528,15 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
