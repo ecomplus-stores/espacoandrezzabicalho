@@ -1826,12 +1826,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/calca-jeans-barrel-com-renda</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/t-shirt-oversized-branca-com-renda</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2486,12 +2480,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2499,6 +2487,12 @@
   
     <url>
       <loc>https://espacoandrezzabicalho.com.br/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
