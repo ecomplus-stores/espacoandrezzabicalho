@@ -2474,6 +2474,12 @@
     </url>
   
     <url>
+      <loc>https://espacoandrezzabicalho.com.br/lenco-estampado-floral</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://espacoandrezzabicalho.com.br/outonoinverno</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2534,13 +2540,13 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/admin/index</loc>
+      <loc>https://espacoandrezzabicalho.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/app/index</loc>
+      <loc>https://espacoandrezzabicalho.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
