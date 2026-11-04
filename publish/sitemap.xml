@@ -2450,6 +2450,18 @@
     </url>
   
     <url>
+      <loc>https://espacoandrezzabicalho.com.br/conjunto-de-linho-amarelo-candy-bata-e-calca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/conjunto-listrado-com-camisa-de-laco-e-calca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://espacoandrezzabicalho.com.br/vestidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2564,15 +2576,15 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://espacoandrezzabicalho.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
