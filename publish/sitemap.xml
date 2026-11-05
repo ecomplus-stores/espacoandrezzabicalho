@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://espacoandrezzabicalho.com.br/outonoinverno</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://espacoandrezzabicalho.com.br/saia-jacquard-cinto-fivela-perolas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2402,12 +2408,6 @@
     </url>
   
     <url>
-      <loc>https://espacoandrezzabicalho.com.br/saia-curta-preta-assimetrica</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://espacoandrezzabicalho.com.br/camisa-tricoline-ombro-a-ombro-com-laco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2571,12 +2571,6 @@
   
     <url>
       <loc>https://espacoandrezzabicalho.com.br/calcados</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://espacoandrezzabicalho.com.br/outonoinverno</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
