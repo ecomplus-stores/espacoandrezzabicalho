@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.82c9c31e0d983a445942afb5d1a09940.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.e39b97af17c23f4b6c95381be19ff0d5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a464a20f3481a1fdf784de83eadb7509.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f541ad8841ee4eab52f33197c347a2bf.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.049a94372ca31deaed94c64c0b897621.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "espacoandrezzabicalho",
+  "short_name": "Espaço Andrezza Bicalho",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Criada em 2022 Espaço Andrezza Bicalho tinha como público principal, mulheres que não viam sentido em gastar uma fortuna em peças que seriam usadas apenas uma vez. ",
+  "background_color": "#ffffff",
+  "theme_color": "#2d2b2a"
+}
